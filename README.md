@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Battleax13
-- 👀 I’m interested in leaning to code for thr first time
+- 👀 I’m interested in leaning to code for the first time
 - 🌱 I’m currently learning nothing yet...
 - 💞️ I’m looking to collaborate on anything AI and taboo
 - 📫 How to reach me 
